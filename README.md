@@ -13,10 +13,6 @@ Right player: Movement-Arror keys, Gun-Spacebar
 Reset game: R  
 Pause game: P  
 Game speed: 1-9  
-Plik konfiguracyjny: config.json  
-Plik gry: my_pong.py  
-Pliki dźwięku: game_over.ogg, background.ogg, get_shot.ogg, shoot.ogg, loose.ogg, hit.ogg  
-Pliki graficzne: boots.png, shield.png, sword.png, border.png  
 
 ## Author
 * **Dominik Baran** - [MasterGTFX](https://github.com/MasterGTFX)
