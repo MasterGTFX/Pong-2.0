@@ -2,8 +2,9 @@
 Its a simple Pong game made using Pygame, but with some extras. You can play against other player or computer, and there's also three perks to choose from, so you can make your game more entertaining.
 
 # Example
-![example](example1.png?raw=true "Example")
+![example](example.png?raw=true "Example")
 ![example](example2.png?raw=true "Example")
+
 ## Technologies
 Project is created in Python, using PyGame library.
 
